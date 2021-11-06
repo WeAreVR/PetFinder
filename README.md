@@ -20,7 +20,7 @@ The goal with the dataset can be read here
 https://www.kaggle.com/c/petfinder-pawpularity-score/data
 
 The first few lines should not be run unless you lost the dataset.
-The functions that finds duplicates does not delete images, but just remove them from the dataset during runtime. Skip it if you need to run the entire code as it takes a long time to run. Atleast until we implement a functions that deletes them
+The functions that finds duplicates does not delete images, but just remove them from the dataset during runtime. Skip it if you need to run the entire code as it takes a long time to run. Atleast until we implement a function that deletes them
 
 
 Next to do
