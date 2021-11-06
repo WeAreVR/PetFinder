@@ -25,4 +25,5 @@ The functions that finds duplicates does not delete images, but just remove them
 
 Next to do
 - [ ] Data Preprocessing
+- [ ] Split dataset into test/train. Because their test is bugged
 - [ ] Simple Model so we can test the augments
